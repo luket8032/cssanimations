@@ -1,0 +1,18 @@
+/* Practice Excercise 1 */
+.prac1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prac1 button {
+    background-color: lightblue;
+    color: white;
+    padding: 15px 25px;
+    font-size: 1.2em;
+    transition: 1s;
+}
+
+.prac1 button:hover {
+    scale: 1.4;
+}
